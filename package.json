@@ -23,7 +23,7 @@
     "@capacitor/status-bar": "next"
   },
   "devDependencies": {
-    "@capacitor/cli": "next",
+    "@capacitor/cli": "file:../../capacitor-ionic/capacitor/cli",
     "vite": "^5.4.2"
   },
   "author": "",
